@@ -1,5 +1,2 @@
 # QSS-Codes
-We have developed a "Quantum secret sharing protocol in the presence of noisy channels with application in visual cryptography".
-We have analyzed the impact of two specific noisy environments, namely the Amplitude Damping Noisy Environment and the Phase Damping Noisy Environment.
-The proposed scheme has been simulated using the IBM-Quantum Experience cloud platform.
-We are providing the codes for the simulation of the QSS scheme as well as the MATLAB code for generating the fidelity graphs.
+We have put forth a "Quantum secret sharing protocol utilizing a noisy channel with an application in visual cryptography." Our analysis focuses on the impact of two types of noisy environments: Amplitude Damping Noisy Environment and Phase Damping Noisy Environment. To evaluate our proposal, we conducted simulations on the IBM-Quantum Experience cloud platforms. Additionally, we are providing the code for the 'simulation of the Quantum Secret Sharing (QSS) scheme' as well as the 'Fidelity graphs obtained using MATLAB.
